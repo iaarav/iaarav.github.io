@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.aarav.testing",
+    "package_name": "com.aarav.shesaswiftieee",
     "sha256_cert_fingerprints":
     ["27:21:8A:CD:F3:CC:1C:35:9E:E0:0E:1E:7F:0D:4F:EB:71:9E:79:F0:3A:0F:96:CE:F4:FB:88:28:E4:12:A5:6B"]
   }
